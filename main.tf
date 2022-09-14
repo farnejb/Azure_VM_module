@@ -15,7 +15,7 @@ provider "azurerm" {
 }
 
 locals {
-  prefix        = "lennox"
+  prefix        = "walgreens"
   location1     = "eastus"
   location2     = "eastus2"
   vm_size1      = "Standard_DS1_v2"
